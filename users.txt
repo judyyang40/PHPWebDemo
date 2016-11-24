@@ -1,0 +1,8 @@
+cjohnson 123456 Christine Johnson cj@gmail.com
+mkao 234567 Manny Kao kmanny@gmail.com
+kisner 345678 Kevin Isner kevinisner666@comcast.net
+blu 456789 Barry Lu barrylu888@hotmail.com
+llawrence 567890 Lily Lawrence luckygirl@yahoo.com
+lmarinaw 678901 Lucy Marinaw lumarinaw@gmail.com
+ctakashi 789012 Carry Takahashi carry.takahashi@sjsu.edu
+tmurata 890123 Takeshi Murata takeshimu@gmail.com
