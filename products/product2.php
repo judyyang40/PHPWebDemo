@@ -18,6 +18,7 @@
 	mysql_select_db ("chuyuany_choco_db");
 	$query = "UPDATE choco_products SET visits = visits + 1 WHERE productid = 'product2'";
 	mysql_query($query);
+	mysql_query("UPDATE products_1 SET VisitedNum = VisitedNum + 1 WHERE ProductID = '102'");
 ?>
 
 <!DOCTYPE html>
